@@ -17,7 +17,7 @@ from project_paths import PROJECT_ROOT
 folder_name = 'lr_sweep'
 
 fixed = dict(
-    n_steps=500,
+    n_steps=250,
     n_spins=15,
     n_samples=2**12,
     n_chains=2**10,
