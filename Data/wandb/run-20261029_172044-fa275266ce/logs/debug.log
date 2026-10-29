@@ -1,0 +1,25 @@
+2026-10-29 17:20:44,831 INFO    MainThread:29336 [wandb_setup.py:_flush():81] Current SDK version is 0.31.0
+2026-10-29 17:20:44,831 INFO    MainThread:29336 [wandb_setup.py:_flush():81] Configure stats pid to 29336
+2026-10-29 17:20:44,831 INFO    MainThread:29336 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2026-10-29 17:20:44,831 INFO    MainThread:29336 [wandb_init.py:setup_run_log_directory():740] Logging user logs to /home/msolionas/code/wandb-test/Data/wandb/run-20261029_172044-fa275266ce/logs/debug.log
+2026-10-29 17:20:44,831 INFO    MainThread:29336 [wandb_init.py:setup_run_log_directory():741] Logging internal logs to /home/msolionas/code/wandb-test/Data/wandb/run-20261029_172044-fa275266ce/logs/debug-internal.log
+2026-10-29 17:20:44,831 INFO    MainThread:29336 [wandb_init.py:init():784] calling init triggers
+2026-10-29 17:20:44,832 INFO    MainThread:29336 [wandb_init.py:init():789] wandb.init called with sweep_config: {}
+config: {'config': None, 'n_samples': 4096, 'n_chains': 1024, 'n_spins': 15, 'batch_size': 4096, 'n_steps': 500, 'seed': 123, 'diag_shift': 0.001, 'lr': 0.1, 'save_history': True, 'save_params': True, 'J': -1, 'h': 1, 'n_hidden': 15, 'bias': False, '_wandb': {}}
+2026-10-29 17:20:44,832 INFO    MainThread:29336 [wandb_init.py:init():832] starting backend
+2026-10-29 17:20:44,832 INFO    MainThread:29336 [wandb_init.py:init():847] sending inform_init request
+2026-10-29 17:20:44,835 INFO    MainThread:29336 [wandb_init.py:init():852] backend started and connected
+2026-10-29 17:20:44,837 INFO    MainThread:29336 [wandb_init.py:init():922] updated telemetry
+2026-10-29 17:20:44,843 INFO    MainThread:29336 [wandb_init.py:init():940] communicating run to backend with 90.0 second timeout
+2026-10-29 17:20:45,385 INFO    MainThread:29336 [wandb_init.py:init():972] run resumed
+2026-10-29 17:20:45,386 INFO    MainThread:29336 [wandb_init.py:init():977] starting run threads in backend
+2026-10-29 17:20:45,485 INFO    MainThread:29336 [wandb_run.py:_console_start():2528] atexit reg
+2026-10-29 17:20:45,485 INFO    MainThread:29336 [wandb_run.py:_redirect():2378] redirect: wrap_raw
+2026-10-29 17:20:45,485 INFO    MainThread:29336 [wandb_run.py:_redirect():2447] Wrapping output streams.
+2026-10-29 17:20:45,485 INFO    MainThread:29336 [wandb_run.py:_redirect():2470] Redirects installed.
+2026-10-29 17:20:45,487 INFO    MainThread:29336 [wandb_init.py:init():1015] run started, returning control to user process
+2026-10-29 17:22:37,856 INFO    MainThread:29336 [wandb_run.py:_finish():2300] finishing run msolinas-university-of-regensburg/wandb-test/fa275266ce
+2026-10-29 17:22:37,856 INFO    MainThread:29336 [wandb_run.py:_atexit_cleanup():2495] got exitcode: 0
+2026-10-29 17:22:37,856 INFO    MainThread:29336 [wandb_run.py:_restore():2477] restore
+2026-10-29 17:22:37,857 INFO    MainThread:29336 [wandb_run.py:_restore():2483] restore done
+2026-10-29 17:22:39,293 INFO    MainThread:29336 [wandb_run.py:_footer_sync_info():3908] logging synced files

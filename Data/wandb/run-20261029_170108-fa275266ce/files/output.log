@@ -1,0 +1,11 @@
+/home/msolionas/code/Custom_jVMC/jVMC_exp/optimizer/base.py:305: UserWarning: Naming convention changed: 'diag_shift' now adds a constant term to the diagonal, while 'diag_scale' multiplies the diagonal entries. This is the opposite of the previous convention.
+  warnings.warn(
+100%|███████████████████████████████████████████████████████████████████████████████| 500/500 [01:13<00:00,  6.80it/s, E=-1.9067e+01+0.0000e+00j ± 3.7685e-03 (Var = 5.8171e-02)]
+Recorded timings:
+    - sampling: 42.197891s
+    - compute objective function and gradient: 4.982673s
+    - solve: 11.103141s
+List updated!
+History saved.
+List updated!
+Parameters saved!

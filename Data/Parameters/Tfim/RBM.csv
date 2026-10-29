@@ -1,0 +1,4 @@
+tags
+"{""BC"": ""PBC"", ""J"": -1, ""batch_size"": 4096, ""bias"": false, ""config"": null, ""diag_shift"": 1e-05, ""h"": 1, ""lr"": 0.1, ""n_chains"": 1024, ""n_dim"": 1, ""n_hidden"": 15, ""n_particles"": 15, ""n_samples"": 4096, ""n_spins"": 15, ""n_steps"": 100, ""save_history"": true, ""save_params"": true, ""seed"": 123}"
+"{""BC"": ""PBC"", ""J"": -1, ""batch_size"": 4096, ""bias"": false, ""config"": null, ""diag_shift"": 0.001, ""h"": 1, ""lr"": 0.1, ""n_chains"": 1024, ""n_dim"": 1, ""n_hidden"": 15, ""n_particles"": 15, ""n_samples"": 4096, ""n_spins"": 15, ""n_steps"": 100, ""save_history"": true, ""save_params"": true, ""seed"": 123}"
+"{""BC"": ""PBC"", ""J"": -1, ""batch_size"": 4096, ""bias"": false, ""config"": null, ""diag_shift"": 0.001, ""h"": 1, ""lr"": 0.1, ""n_chains"": 1024, ""n_dim"": 1, ""n_hidden"": 15, ""n_particles"": 15, ""n_samples"": 4096, ""n_spins"": 15, ""n_steps"": 500, ""save_history"": true, ""save_params"": true, ""seed"": 123}"

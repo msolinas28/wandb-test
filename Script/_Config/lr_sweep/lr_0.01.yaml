@@ -1,0 +1,12 @@
+n_steps: 500
+n_spins: 15
+n_samples: 4096
+n_chains: 1024
+batch_size: null
+seed: 123
+diag_shift: 0.001
+J: -1
+h: 1
+save_history: false
+save_params: false
+lr: 0.01

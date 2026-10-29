@@ -1,0 +1,15 @@
+{"time":"2026-10-29T16:57:25.974754366+01:00","level":"INFO","msg":"wandb-core"}
+{"time":"2026-10-29T16:57:25.974864382+01:00","level":"INFO","msg":"stream: starting","core version":"0.31.0"}
+{"time":"2026-10-29T16:57:25.975111151+01:00","level":"INFO","msg":"stream: created new stream","id":"1f7ec38536"}
+{"time":"2026-10-29T16:57:25.975218962+01:00","level":"INFO","msg":"stream: started"}
+{"time":"2026-10-29T16:57:25.975225879+01:00","level":"INFO","msg":"handler: started"}
+{"time":"2026-10-29T16:57:25.975260361+01:00","level":"INFO","msg":"writer: started","stream_id":"1f7ec38536"}
+{"time":"2026-10-29T16:57:25.975283204+01:00","level":"INFO","msg":"sender: started"}
+{"time":"2026-10-29T16:57:26.394111081+01:00","level":"ERROR","msg":"api: HTTP error","status":410,"method":"POST","url":"https://api.forge.coreweave.com/graphql"}
+{"time":"2026-10-29T16:57:26.394203975+01:00","level":"ERROR","msg":"runupserter: failed to init run","error":"returned error 410: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"run 1f7ec38536 was previously created and deleted; try a new run id\",\"path\":[\"upsertBucket\"]}]}"}
+{"time":"2026-10-29T16:57:50.167929173+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-10-29T16:57:50.16794854+01:00","level":"INFO","msg":"stream: finishing up"}
+{"time":"2026-10-29T16:57:50.167954921+01:00","level":"INFO","msg":"handler: closed"}
+{"time":"2026-10-29T16:57:50.167972296+01:00","level":"INFO","msg":"sender: closed"}
+{"time":"2026-10-29T16:57:50.167976562+01:00","level":"INFO","msg":"stream: all finished"}
+{"time":"2026-10-29T16:57:50.654997893+01:00","level":"ERROR","msg":"stream: runURL: runhandle: run not yet initialized"}
