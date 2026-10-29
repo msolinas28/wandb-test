@@ -1,8 +1,8 @@
 #!/bin/bash -l
 #SBATCH --nodes=1
-#SBATCH --gres=gpu:4
+#SBATCH --gres=gpu:1
 #SBATCH --cpus-per-task=8
-#SBATCH --time=02:00:00
+#SBATCH --time=01:00:00
 #SBATCH --output=_Logs/%j.out
 
 source ${CLUSTER_FILE}
